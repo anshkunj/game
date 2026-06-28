@@ -12,3 +12,4 @@ struct FColor {
 };
 
 #define Super AGameModeBase
+typedef std::string FString;
