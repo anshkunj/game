@@ -11,3 +11,4 @@ struct FColor {
     static FColor Green;
 };
 
+#define Super AGameModeBase
